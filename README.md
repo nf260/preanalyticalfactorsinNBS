@@ -1,4 +1,4 @@
-These Jupyter notebooks describe the analyses in the following manuscript (submitted for publication in Clinical Chemistry):
+These Jupyter notebooks describe the analyses in the following manuscript (submitted for publication in Clinical Chemistry and Laboratory Medicine):
 
 **Impact of Dried Blood Spot Diameter and Transit Time on Analyte Concentrations and Cut-Off Classification in Routine Newborn Screening**
 Nick Flynn, Sarah Hogg, Stuart J Moat
